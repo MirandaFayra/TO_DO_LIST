@@ -31,9 +31,9 @@ Este é um projeto de Beckend, cujo o principal objetivo é realizar um projeto 
 
 ###  👩🏽‍🔧 Melhorias a serem implementadas
 
-✔ Mudança do formato da data (estou com dificuldade nisso);
+✔ Mudança do formato da data;
 
-✔ Resposta da requisição de pegar tarefa por Id (minha tabela de relações está dando erro na criação);
+✔ Resposta da requisição de pegar tarefa por Id ;
 
 
 
